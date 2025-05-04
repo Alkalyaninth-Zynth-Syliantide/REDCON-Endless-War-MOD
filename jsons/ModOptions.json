@@ -16,10 +16,10 @@
                         "baseCityBombardRange": 2,
                 
                         //City Functions
-                        "cityWorkRange": 5,
-                        "cityExpandRange": 5,
+                        "cityWorkRange": 1,
+                        "cityExpandRange": 1,
                         "unitSupplyPerPopulation": 1,
-                        "minimalCityDistance": 10,
-                        "minimalCityDistanceOnDifferentContinents": 10,
+                        "minimalCityDistance": 3,
+                        "minimalCityDistanceOnDifferentContinents": 3,
         }
 ]
