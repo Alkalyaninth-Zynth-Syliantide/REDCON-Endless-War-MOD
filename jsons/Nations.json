@@ -1,0 +1,34 @@
+[
+        {
+                "name": "Empire State",
+                "leaderName": "Fuhrer Adler Grimm",
+		"adjective": ["Human"],
+		"preferredVictoryType": "Domination",
+		"outerColor": [255, 220, 0],
+		"innerColor": [255, 0, 0],
+		
+		"startIntroPart1": "You are going to save many lives today, commander. Yours truly, Fuhrer Adler Grimm",
+		"startIntroPart2": "This mod was brought to you by an avid REDCON fan - Alkalyaninth Zynth Syliantide",
+
+		"uniqueName": "Guidance of the Fuhrer",
+		"uniques": [],
+		
+		"cities": ["Imperatus Bellum"],
+        },
+        {
+                "name": "Frux Rebellion",
+                "leaderName": "Traitor General Kranz",
+		"adjective": ["Human"],
+		"preferredVictoryType": "Domination",
+		"outerColor": [0, 160, 155],
+		"innerColor": [0, 75, 75],
+		
+		"startIntroPart1": "For the sake of humanity... May the best general win... All cannons, REDCON 1! - General Kranz",
+		"startIntroPart2": "This mod was brought to you by an avid REDCON fan - Alkalyaninth Zynth Syliantide",
+
+		"uniqueName": "Long Range Artillery Doctrine",
+		"uniques": [],
+		
+		"cities": ["Remus"],
+        }
+]
