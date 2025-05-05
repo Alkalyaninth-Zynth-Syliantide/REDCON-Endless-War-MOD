@@ -26,8 +26,7 @@
         {
                 "name": "Lake Wasteland",
                 "type": "Water",
-                "uniques": ["[5] Sight"],
-                            
+                "uniques": ["[5] Sight"],            
         },
         {
                 "name": "Coast Wasteland",
