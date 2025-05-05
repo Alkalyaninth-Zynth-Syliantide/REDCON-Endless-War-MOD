@@ -7,7 +7,7 @@
                                     "Allow raze Holy City"],
                 //Mod Constants
                         //City Strenght & Range
-                        "cityStrengthBase": 1,
+                        "cityStrengthBase": 100,
                         "cityStrengthPerPop": 0,
                         "cityStrengthFromTechsMultiplier": 0,
                         "cityStrengthFromTechsExponent": 0,
