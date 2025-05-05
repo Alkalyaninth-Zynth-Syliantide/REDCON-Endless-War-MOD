@@ -1,4 +1,21 @@
 [
         {
+                "name": "BASILISK Cannon",
+                "unitType": "Light Cannons",
+                "movement": 1,
+                "strength": 80,
+                "rangedStrength": 12,
+                "range": 10,
+                "uniques": ["Can be purchased for [300] [Gold] [in all cities]"],
+        },
+        {
+                "name": "HYDRA Assault Cannon",
+                "unitType": "Light Cannons",
+                "movement": 1,
+                "strength": 90,
+                "rangedStrength": 9,
+                "range": 10,
+                "uniques": ["Can be purchased for [400] [Gold] [in all cities]",
+                            "[2] additional attacks per turn"],
         }
 ]
