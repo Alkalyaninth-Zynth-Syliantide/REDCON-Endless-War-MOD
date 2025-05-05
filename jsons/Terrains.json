@@ -1,4 +1,42 @@
 [
         {
+                "name": "Plain Wasteland",
+                "type": "Land",
+                "uniques": ["[2] Sight",
+                            "Rough terrain"],
+        },
+        {
+                "name": "Bombarded Wasteland",
+                "type": "Land",
+                "uniques": ["[2] Sight",
+                            "Rough terrain"],
+        },
+        {
+                "name": "Mountain Wasteland",
+                "type": "Land",
+                "uniques": ["Neighboring tiles will convert to [Mountain Wasteland] <with [5]% chance>",
+                            "Occurs in chains at high elevations",
+                            "Occurs in groups around high elevations",
+                            "Blocks line-of-sight from tiles at same elevation",
+                            "Occurs in groups of [5] to [20] tiles",
+                            "[10] Strength for cities built on this terrain",
+                            "[5] Sight",
+                            "Rough terrain"],
+        },
+        {
+                "name": "Lake Wasteland",
+                "type": "Water",
+                "uniques": ["[5] Sight"],
+                            
+        },
+        {
+                "name": "Coast Wasteland",
+                "type": "Water",
+                "uniques": ["[5] Sight"],
+        },
+        {
+                "name": "Ocean Wasteland",
+                "type": "Water",
+                "uniques": ["[5] Sight"],
         }
 ]
