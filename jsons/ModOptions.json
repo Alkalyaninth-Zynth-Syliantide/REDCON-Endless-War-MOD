@@ -13,11 +13,11 @@
                         "cityStrengthFromTechsExponent": 0,
                         "cityStrengthFromTechsFullMultiplier": 0,
                         "cityStrengthFromTechsFullMultiplier": 5,
-                        "baseCityBombardRange": 2,
+                        "baseCityBombardRange": 1,
                 
                         //City Functions
                         "cityWorkRange": 1,
-                        "cityExpandRange": 1,
+                        "cityExpandRange": 10,
                         "unitSupplyPerPopulation": 1,
                         "minimalCityDistance": 3,
                         "minimalCityDistanceOnDifferentContinents": 3,
