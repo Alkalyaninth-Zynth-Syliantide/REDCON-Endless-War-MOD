@@ -17,7 +17,7 @@
                 
                         //City Functions
                         "cityWorkRange": 1,
-                        "cityExpandRange": 10,
+                        "cityExpandRange": 1,
                         "unitSupplyPerPopulation": 1,
                         "minimalCityDistance": 3,
                         "minimalCityDistanceOnDifferentContinents": 3,
