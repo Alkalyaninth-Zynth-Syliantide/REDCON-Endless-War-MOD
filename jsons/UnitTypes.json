@@ -1,4 +1,47 @@
 [
         {
+                "name": "Light Explosive Shells",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Self-destructs when attacking",
+                            "Can only attack [City] units"],
+        },
+        {
+                "name": "Heavy Explosive Shells",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Self-destructs when attacking",
+                            "Can only attack [City] units"],
+        },
+        {
+                "name": "Light Ballistic Missiles",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Self-destructs when attacking",
+                            "Can only attack [City] units"],
+        },
+        {
+                "name": "Cruise Missiles",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Self-destructs when attacking",
+                            "Can only attack [City] units"],
+        },
+        {
+                "name": "Airship",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Can only attack [City] units"],
+        },
+        {
+                "name": "Aerial Defense",
+                "movementType": "Air",
+                "uniques": ["Unbuildable",
+                            "Can only attack [Airship] units"],
+        },
+        {
+                "name": "Soldier",
+                "movementType": "Air",
+                "uniques": ["Unbuildable"],    
         }
 ]
