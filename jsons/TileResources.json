@@ -1,0 +1,14 @@
+[
+        {
+                "name": "Power",
+                "resourceType": "Strategic",
+                "uniques": ["Doesn't generate naturally",
+                            "Stockpiled"],
+        },
+        {
+                "name": "Ammunition",
+                "resourceType": "Strategic",
+                "uniques": ["Doesn't generate naturally",
+                            "Stockpiled"],
+        }
+]
